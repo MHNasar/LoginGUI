@@ -1,1 +1,2 @@
 # LoginGUI
+The LoginGUI is a simple Java Swing application that demonstrates a basic login interface. It provides a window with fields for entering a username and password, as well as a login button. When the user clicks the login button, the application checks the entered credentials against predefined values ("admin" for both username and password in this example) and displays a message indicating whether the login was successful or not.
